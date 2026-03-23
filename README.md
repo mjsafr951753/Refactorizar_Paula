@@ -1,2 +1,2 @@
 # Refactorizar_Paula
-Repositorio para refactorizar 
+Para practicar en contornos en el 3ºTrimestre
